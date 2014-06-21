@@ -11,7 +11,7 @@
 
 //----网络UI弹框配置
 
-#define     CookieDomain @"api.xszhuan.com"
+#define     CookieDomain @"www.test.com"
 #define     HttpTimeOutSeconds 10
 
 
